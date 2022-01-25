@@ -1,0 +1,13 @@
+body {
+	background-color: #2d2d2d;
+}
+.darklight {
+    background-color: #2d2d2d;
+    color : #cccccc;
+}
+.form-control:active,
+.form-control:active,
+.form-control:focus {
+    -webkit-box-shadow: 0 0 0 30px #2d2d2d inset;
+    -webkit-text-fill-color: #cccccc;
+}
